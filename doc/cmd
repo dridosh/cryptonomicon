@@ -1,0 +1,2 @@
+npm run lint -- --fix
+git config --global core.autocrlf false
